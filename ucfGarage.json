@@ -10,7 +10,7 @@
     {
         "garageName": "Garage B",
         "total": "1209",
-        "available": "1208",
+        "available": "1207",
         "occupiedPercent": "0",
         "occupiedProgressText": "",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱▱"
@@ -18,7 +18,7 @@
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "1847",
+        "available": "1846",
         "occupiedPercent": "0",
         "occupiedProgressText": "",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱▱"
@@ -34,10 +34,10 @@
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "1337",
-        "occupiedPercent": "0",
-        "occupiedProgressText": "",
-        "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱▱"
+        "available": "1327",
+        "occupiedPercent": "1",
+        "occupiedProgressText": "▰",
+        "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage I",
