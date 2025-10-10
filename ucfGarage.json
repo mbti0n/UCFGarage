@@ -2,7 +2,7 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1435",
+        "available": "1439",
         "occupiedPercent": "13",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
@@ -10,18 +10,18 @@
     {
         "garageName": "Garage B",
         "total": "1249",
-        "available": "1096",
-        "occupiedPercent": "12",
+        "available": "1115",
+        "occupiedPercent": "11",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "1294",
-        "occupiedPercent": "30",
-        "occupiedProgressText": "▰▰▰",
-        "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
+        "available": "1334",
+        "occupiedPercent": "28",
+        "occupiedProgressText": "▰▰",
+        "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage D",
@@ -42,10 +42,10 @@
     {
         "garageName": "Garage I",
         "total": "1270",
-        "available": "883",
-        "occupiedPercent": "30",
-        "occupiedProgressText": "▰▰▰",
-        "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
+        "available": "900",
+        "occupiedPercent": "29",
+        "occupiedProgressText": "▰▰",
+        "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Downtown Campus Amelia Garage",
@@ -58,8 +58,8 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "432",
-        "occupiedPercent": "24",
+        "available": "439",
+        "occupiedPercent": "23",
         "occupiedProgressText": "▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
     },
