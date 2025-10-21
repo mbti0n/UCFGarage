@@ -2,23 +2,23 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "383",
-        "occupiedPercent": "77",
+        "available": "388",
+        "occupiedPercent": "76",
         "occupiedProgressText": "▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱"
     },
     {
         "garageName": "Garage B",
         "total": "1289",
-        "available": "224",
-        "occupiedPercent": "83",
+        "available": "229",
+        "occupiedPercent": "82",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱"
     },
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "63",
+        "available": "54",
         "occupiedPercent": "97",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱"
@@ -34,16 +34,16 @@
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "719",
-        "occupiedPercent": "46",
+        "available": "735",
+        "occupiedPercent": "45",
         "occupiedProgressText": "▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage I",
         "total": "1270",
-        "available": "80",
-        "occupiedPercent": "94",
+        "available": "88",
+        "occupiedPercent": "93",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱"
     },
@@ -66,7 +66,7 @@
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "343",
+        "available": "341",
         "occupiedPercent": "40",
         "occupiedProgressText": "▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱"
