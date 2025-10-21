@@ -2,7 +2,7 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "568",
+        "available": "567",
         "occupiedPercent": "66",
         "occupiedProgressText": "▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱"
@@ -10,16 +10,16 @@
     {
         "garageName": "Garage B",
         "total": "1289",
-        "available": "293",
-        "occupiedPercent": "77",
+        "available": "313",
+        "occupiedPercent": "76",
         "occupiedProgressText": "▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱"
     },
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "209",
-        "occupiedPercent": "89",
+        "available": "240",
+        "occupiedPercent": "87",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱"
     },
@@ -34,16 +34,16 @@
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "1080",
-        "occupiedPercent": "19",
+        "available": "1107",
+        "occupiedPercent": "17",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage I",
         "total": "1270",
-        "available": "477",
-        "occupiedPercent": "62",
+        "available": "501",
+        "occupiedPercent": "61",
         "occupiedProgressText": "▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱"
     },
@@ -58,15 +58,15 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "212",
-        "occupiedPercent": "63",
+        "available": "218",
+        "occupiedPercent": "62",
         "occupiedProgressText": "▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱"
     },
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "379",
+        "available": "377",
         "occupiedPercent": "34",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
