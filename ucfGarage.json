@@ -2,7 +2,7 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1617",
+        "available": "1610",
         "occupiedPercent": "2",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
@@ -10,32 +10,32 @@
     {
         "garageName": "Garage B",
         "total": "1289",
-        "available": "1168",
-        "occupiedPercent": "9",
+        "available": "1153",
+        "occupiedPercent": "11",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage C",
         "total": "1837",
-        "available": "1695",
-        "occupiedPercent": "8",
+        "available": "1647",
+        "occupiedPercent": "10",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage D",
         "total": "1289",
-        "available": "526",
-        "occupiedPercent": "59",
-        "occupiedProgressText": "▰▰▰▰▰",
-        "nonOccupiedProgressText": "▱▱▱▱▱"
+        "available": "515",
+        "occupiedPercent": "60",
+        "occupiedProgressText": "▰▰▰▰▰▰",
+        "nonOccupiedProgressText": "▱▱▱▱"
     },
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "307",
-        "occupiedPercent": "77",
+        "available": "335",
+        "occupiedPercent": "75",
         "occupiedProgressText": "▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱"
     },
@@ -58,16 +58,16 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "414",
-        "occupiedPercent": "27",
-        "occupiedProgressText": "▰▰",
-        "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
+        "available": "401",
+        "occupiedPercent": "30",
+        "occupiedProgressText": "▰▰▰",
+        "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "435",
-        "occupiedPercent": "24",
+        "available": "423",
+        "occupiedPercent": "26",
         "occupiedProgressText": "▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
     }
