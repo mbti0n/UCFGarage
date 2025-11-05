@@ -2,7 +2,7 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "886",
+        "available": "887",
         "occupiedPercent": "46",
         "occupiedProgressText": "▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱"
@@ -10,16 +10,16 @@
     {
         "garageName": "Garage B",
         "total": "1289",
-        "available": "448",
-        "occupiedPercent": "65",
+        "available": "493",
+        "occupiedPercent": "62",
         "occupiedProgressText": "▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱"
     },
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "491",
-        "occupiedPercent": "73",
+        "available": "531",
+        "occupiedPercent": "71",
         "occupiedProgressText": "▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱"
     },
@@ -34,16 +34,16 @@
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "323",
-        "occupiedPercent": "76",
+        "available": "303",
+        "occupiedPercent": "77",
         "occupiedProgressText": "▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱"
     },
     {
         "garageName": "Garage I",
         "total": "1270",
-        "available": "816",
-        "occupiedPercent": "36",
+        "available": "858",
+        "occupiedPercent": "32",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     },
@@ -58,16 +58,16 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "308",
-        "occupiedPercent": "46",
+        "available": "300",
+        "occupiedPercent": "47",
         "occupiedProgressText": "▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱"
     },
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "441",
-        "occupiedPercent": "23",
+        "available": "443",
+        "occupiedPercent": "22",
         "occupiedProgressText": "▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
     }
