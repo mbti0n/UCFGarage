@@ -2,31 +2,31 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1025",
-        "occupiedPercent": "38",
-        "occupiedProgressText": "▰▰▰",
-        "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
+        "available": "974",
+        "occupiedPercent": "41",
+        "occupiedProgressText": "▰▰▰▰",
+        "nonOccupiedProgressText": "▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage B",
         "total": "1289",
-        "available": "471",
-        "occupiedPercent": "63",
+        "available": "430",
+        "occupiedPercent": "67",
         "occupiedProgressText": "▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱"
     },
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "509",
-        "occupiedPercent": "73",
+        "available": "435",
+        "occupiedPercent": "77",
         "occupiedProgressText": "▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱"
     },
     {
         "garageName": "Garage D",
         "total": "1289",
-        "available": "2",
+        "available": "0",
         "occupiedPercent": "100",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": ""
@@ -50,24 +50,24 @@
     {
         "garageName": "Downtown Campus Amelia Garage",
         "total": "603",
-        "available": "572",
-        "occupiedPercent": "5",
+        "available": "567",
+        "occupiedPercent": "6",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "216",
-        "occupiedPercent": "62",
+        "available": "210",
+        "occupiedPercent": "63",
         "occupiedProgressText": "▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱"
     },
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "373",
-        "occupiedPercent": "35",
+        "available": "359",
+        "occupiedPercent": "37",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     }
