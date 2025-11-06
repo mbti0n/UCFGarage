@@ -2,40 +2,40 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1059",
-        "occupiedPercent": "36",
+        "available": "1081",
+        "occupiedPercent": "34",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage B",
         "total": "1289",
-        "available": "839",
-        "occupiedPercent": "35",
+        "available": "881",
+        "occupiedPercent": "32",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "1017",
-        "occupiedPercent": "45",
+        "available": "1061",
+        "occupiedPercent": "43",
         "occupiedProgressText": "▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage D",
         "total": "1289",
-        "available": "60",
-        "occupiedPercent": "95",
+        "available": "71",
+        "occupiedPercent": "94",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱"
     },
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "738",
-        "occupiedPercent": "45",
+        "available": "790",
+        "occupiedPercent": "41",
         "occupiedProgressText": "▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱"
     },
@@ -58,16 +58,16 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "357",
-        "occupiedPercent": "37",
+        "available": "365",
+        "occupiedPercent": "36",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "474",
-        "occupiedPercent": "17",
+        "available": "486",
+        "occupiedPercent": "15",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     }
