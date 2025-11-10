@@ -2,34 +2,34 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1121",
-        "occupiedPercent": "32",
+        "available": "1049",
+        "occupiedPercent": "36",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage B",
         "total": "1289",
-        "available": "565",
-        "occupiedPercent": "56",
-        "occupiedProgressText": "▰▰▰▰▰",
-        "nonOccupiedProgressText": "▱▱▱▱▱"
+        "available": "501",
+        "occupiedPercent": "61",
+        "occupiedProgressText": "▰▰▰▰▰▰",
+        "nonOccupiedProgressText": "▱▱▱▱"
     },
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "697",
-        "occupiedPercent": "62",
+        "available": "597",
+        "occupiedPercent": "68",
         "occupiedProgressText": "▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱"
     },
     {
         "garageName": "Garage D",
         "total": "1289",
-        "available": "64",
-        "occupiedPercent": "95",
-        "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
-        "nonOccupiedProgressText": "▱"
+        "available": "0",
+        "occupiedPercent": "100",
+        "occupiedProgressText": "▰▰▰▰▰▰▰▰▰▰",
+        "nonOccupiedProgressText": ""
     },
     {
         "garageName": "Garage H",
@@ -58,16 +58,16 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "186",
-        "occupiedPercent": "67",
-        "occupiedProgressText": "▰▰▰▰▰▰",
-        "nonOccupiedProgressText": "▱▱▱▱"
+        "available": "173",
+        "occupiedPercent": "70",
+        "occupiedProgressText": "▰▰▰▰▰▰▰",
+        "nonOccupiedProgressText": "▱▱▱"
     },
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "415",
-        "occupiedPercent": "27",
+        "available": "404",
+        "occupiedPercent": "29",
         "occupiedProgressText": "▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
     }
