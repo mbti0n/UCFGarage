@@ -2,40 +2,40 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1220",
-        "occupiedPercent": "26",
+        "available": "1241",
+        "occupiedPercent": "25",
         "occupiedProgressText": "▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage B",
         "total": "1264",
-        "available": "994",
-        "occupiedPercent": "21",
+        "available": "1014",
+        "occupiedPercent": "20",
         "occupiedProgressText": "▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "1341",
-        "occupiedPercent": "28",
+        "available": "1398",
+        "occupiedPercent": "25",
         "occupiedProgressText": "▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage D",
         "total": "1289",
-        "available": "0",
-        "occupiedPercent": "100",
-        "occupiedProgressText": "▰▰▰▰▰▰▰▰▰▰",
-        "nonOccupiedProgressText": ""
+        "available": "10",
+        "occupiedPercent": "99",
+        "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
+        "nonOccupiedProgressText": "▱"
     },
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "857",
-        "occupiedPercent": "36",
+        "available": "881",
+        "occupiedPercent": "34",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     },
@@ -58,8 +58,8 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "501",
-        "available": "431",
-        "occupiedPercent": "14",
+        "available": "472",
+        "occupiedPercent": "6",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
