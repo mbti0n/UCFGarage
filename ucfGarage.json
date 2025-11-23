@@ -2,7 +2,7 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1646",
+        "available": "1644",
         "occupiedPercent": "0",
         "occupiedProgressText": "▱",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
@@ -18,9 +18,9 @@
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "1847",
-        "occupiedPercent": "0",
-        "occupiedProgressText": "▱",
+        "available": "1841",
+        "occupiedPercent": "1",
+        "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
