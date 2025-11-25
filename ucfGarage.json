@@ -2,40 +2,40 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1624",
-        "occupiedPercent": "1",
+        "available": "1612",
+        "occupiedPercent": "2",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage B",
         "total": "1289",
-        "available": "1208",
-        "occupiedPercent": "6",
+        "available": "1187",
+        "occupiedPercent": "8",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "1747",
-        "occupiedPercent": "6",
+        "available": "1710",
+        "occupiedPercent": "8",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage D",
         "total": "1289",
-        "available": "514",
-        "occupiedPercent": "60",
+        "available": "498",
+        "occupiedPercent": "61",
         "occupiedProgressText": "▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱"
     },
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "138",
-        "occupiedPercent": "90",
+        "available": "108",
+        "occupiedPercent": "92",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱"
     },
@@ -58,16 +58,16 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "389",
-        "occupiedPercent": "32",
+        "available": "384",
+        "occupiedPercent": "33",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "428",
-        "occupiedPercent": "25",
+        "available": "424",
+        "occupiedPercent": "26",
         "occupiedProgressText": "▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱"
     }
