@@ -2,7 +2,7 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1091",
+        "available": "1089",
         "occupiedPercent": "34",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
@@ -18,31 +18,31 @@
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "638",
-        "occupiedPercent": "66",
+        "available": "620",
+        "occupiedPercent": "67",
         "occupiedProgressText": "▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱"
     },
     {
         "garageName": "Garage D",
         "total": "1289",
-        "available": "122",
-        "occupiedPercent": "91",
+        "available": "107",
+        "occupiedPercent": "92",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱"
     },
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "59",
-        "occupiedPercent": "96",
+        "available": "65",
+        "occupiedPercent": "95",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱"
     },
     {
         "garageName": "Garage I",
         "total": "1270",
-        "available": "32",
+        "available": "34",
         "occupiedPercent": "97",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱"
@@ -58,15 +58,15 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "286",
-        "occupiedPercent": "50",
-        "occupiedProgressText": "▰▰▰▰▰",
-        "nonOccupiedProgressText": "▱▱▱▱▱"
+        "available": "291",
+        "occupiedPercent": "49",
+        "occupiedProgressText": "▰▰▰▰",
+        "nonOccupiedProgressText": "▱▱▱▱▱▱"
     },
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "275",
+        "available": "272",
         "occupiedPercent": "52",
         "occupiedProgressText": "▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱"
