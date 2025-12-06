@@ -2,7 +2,7 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1603",
+        "available": "1605",
         "occupiedPercent": "3",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
@@ -18,32 +18,32 @@
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "1760",
-        "occupiedPercent": "5",
+        "available": "1775",
+        "occupiedPercent": "4",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage D",
         "total": "1289",
-        "available": "0",
-        "occupiedPercent": "100",
-        "occupiedProgressText": "▰▰▰▰▰▰▰▰▰▰",
-        "nonOccupiedProgressText": ""
-    },
-    {
-        "garageName": "Garage H",
-        "total": "1340",
-        "available": "111",
-        "occupiedPercent": "92",
+        "available": "63",
+        "occupiedPercent": "95",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱"
     },
     {
+        "garageName": "Garage H",
+        "total": "1340",
+        "available": "206",
+        "occupiedPercent": "85",
+        "occupiedProgressText": "▰▰▰▰▰▰▰▰",
+        "nonOccupiedProgressText": "▱▱"
+    },
+    {
         "garageName": "Garage I",
         "total": "1270",
-        "available": "869",
-        "occupiedPercent": "32",
+        "available": "875",
+        "occupiedPercent": "31",
         "occupiedProgressText": "▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     },
