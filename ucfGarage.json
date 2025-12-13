@@ -2,7 +2,7 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "1640",
+        "available": "1647",
         "occupiedPercent": "0",
         "occupiedProgressText": "▱",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
@@ -18,34 +18,34 @@
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "1823",
-        "occupiedPercent": "2",
-        "occupiedProgressText": "▰",
+        "available": "1852",
+        "occupiedPercent": "0",
+        "occupiedProgressText": "▱",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Garage D",
         "total": "1289",
-        "available": "76",
-        "occupiedPercent": "94",
-        "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
-        "nonOccupiedProgressText": "▱"
+        "available": "543",
+        "occupiedPercent": "58",
+        "occupiedProgressText": "▰▰▰▰▰",
+        "nonOccupiedProgressText": "▱▱▱▱▱"
     },
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "291",
-        "occupiedPercent": "78",
+        "available": "395",
+        "occupiedPercent": "71",
         "occupiedProgressText": "▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱"
     },
     {
         "garageName": "Garage I",
         "total": "1270",
-        "available": "321",
-        "occupiedPercent": "75",
-        "occupiedProgressText": "▰▰▰▰▰▰▰",
-        "nonOccupiedProgressText": "▱▱▱"
+        "available": "0",
+        "occupiedPercent": "100",
+        "occupiedProgressText": "▰▰▰▰▰▰▰▰▰▰",
+        "nonOccupiedProgressText": ""
     },
     {
         "garageName": "Downtown Campus Amelia Garage",
@@ -58,16 +58,16 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "510",
-        "occupiedPercent": "11",
-        "occupiedProgressText": "▰",
-        "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
+        "available": "401",
+        "occupiedPercent": "30",
+        "occupiedProgressText": "▰▰▰",
+        "nonOccupiedProgressText": "▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "519",
-        "occupiedPercent": "9",
+        "available": "491",
+        "occupiedPercent": "14",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     }
