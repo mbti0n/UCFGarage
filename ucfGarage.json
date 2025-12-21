@@ -18,9 +18,9 @@
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "1842",
-        "occupiedPercent": "1",
-        "occupiedProgressText": "▰",
+        "available": "1844",
+        "occupiedPercent": "0",
+        "occupiedProgressText": "▱",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
@@ -66,8 +66,8 @@
     {
         "garageName": "Rosen Lot",
         "total": "571",
-        "available": "507",
-        "occupiedPercent": "11",
+        "available": "505",
+        "occupiedPercent": "12",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     }
