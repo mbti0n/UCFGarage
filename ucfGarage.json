@@ -18,7 +18,7 @@
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "1852",
+        "available": "1848",
         "occupiedPercent": "0",
         "occupiedProgressText": "▱",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
@@ -34,9 +34,9 @@
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "1338",
-        "occupiedPercent": "0",
-        "occupiedProgressText": "▱",
+        "available": "1332",
+        "occupiedPercent": "1",
+        "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
@@ -50,8 +50,8 @@
     {
         "garageName": "Downtown Campus Amelia Garage",
         "total": "603",
-        "available": "569",
-        "occupiedPercent": "6",
+        "available": "570",
+        "occupiedPercent": "5",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
