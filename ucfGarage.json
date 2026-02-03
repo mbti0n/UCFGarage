@@ -2,40 +2,40 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "505",
-        "occupiedPercent": "69",
+        "available": "521",
+        "occupiedPercent": "68",
         "occupiedProgressText": "▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱"
     },
     {
         "garageName": "Garage B",
         "total": "1289",
-        "available": "93",
-        "occupiedPercent": "93",
+        "available": "121",
+        "occupiedPercent": "91",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱"
     },
     {
         "garageName": "Garage C",
         "total": "1852",
-        "available": "322",
-        "occupiedPercent": "83",
+        "available": "338",
+        "occupiedPercent": "82",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱"
     },
     {
         "garageName": "Garage D",
         "total": "1289",
-        "available": "154",
-        "occupiedPercent": "88",
+        "available": "178",
+        "occupiedPercent": "86",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱"
     },
     {
         "garageName": "Garage H",
         "total": "1340",
-        "available": "572",
-        "occupiedPercent": "57",
+        "available": "608",
+        "occupiedPercent": "55",
         "occupiedProgressText": "▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱"
     },
@@ -50,7 +50,7 @@
     {
         "garageName": "Downtown Campus Amelia Garage",
         "total": "603",
-        "available": "595",
+        "available": "594",
         "occupiedPercent": "1",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
@@ -58,8 +58,8 @@
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "261",
-        "occupiedPercent": "54",
+        "available": "277",
+        "occupiedPercent": "51",
         "occupiedProgressText": "▰▰▰▰▰",
         "nonOccupiedProgressText": "▱▱▱▱▱"
     },
