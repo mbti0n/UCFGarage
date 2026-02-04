@@ -2,8 +2,8 @@
     {
         "garageName": "Garage A",
         "total": "1647",
-        "available": "40",
-        "occupiedPercent": "98",
+        "available": "18",
+        "occupiedPercent": "99",
         "occupiedProgressText": "▰▰▰▰▰▰▰▰▰",
         "nonOccupiedProgressText": "▱"
     },
@@ -50,18 +50,18 @@
     {
         "garageName": "Downtown Campus Amelia Garage",
         "total": "603",
-        "available": "562",
-        "occupiedPercent": "7",
+        "available": "566",
+        "occupiedPercent": "6",
         "occupiedProgressText": "▰",
         "nonOccupiedProgressText": "▱▱▱▱▱▱▱▱▱"
     },
     {
         "garageName": "Downtown Campus Parramore Garage",
         "total": "571",
-        "available": "112",
-        "occupiedPercent": "80",
-        "occupiedProgressText": "▰▰▰▰▰▰▰▰",
-        "nonOccupiedProgressText": "▱▱"
+        "available": "123",
+        "occupiedPercent": "78",
+        "occupiedProgressText": "▰▰▰▰▰▰▰",
+        "nonOccupiedProgressText": "▱▱▱"
     },
     {
         "garageName": "Rosen Lot",
